@@ -12,3 +12,4 @@ Run Instructions:
 6. Read the output file
 
 added dylan as a groupmate
+added evan as a groupmate
