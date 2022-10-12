@@ -1,6 +1,8 @@
 # groupSomething
+
 group something repository 
 
+<<<<<<< HEAD
 The something.ipynb file allows the user to input their name and their favorite color. The program then checks to see if their favorite color matched up with the creators favorite color, and will inform the user if they do. Then the program will output a formatted sentence informing the user what their name and favorite colors are.
 
 Run Instructions:
@@ -13,3 +15,8 @@ Run Instructions:
 
 added dylan as a groupmate
 added evan as a groupmate
+=======
+this is a program that asks for the users name and favorite color
+
+added dylan as a groupmate
+>>>>>>> 46f4b967ed50106c91839c12cf4176239ca301c2
